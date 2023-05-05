@@ -37,7 +37,9 @@ HOST={your app's host}              # Your app's host, without the protocol pref
   - [App authentication](https://shopify.dev/apps/auth)
 - [Shopify CLI command reference](https://shopify.dev/apps/tools/cli/app)
 - [Shopify API Library documentation](https://github.com/Shopify/shopify-node-api/tree/main/docs)
-
+## Project status so far
+  the application is blank right now and we need to add some basic functionality and connect to the API.
+  
 ## License
 
 This repository is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
